@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vehicles>
+    <vehicle>
+        <id>1</id>
+        <name>znhheo</name>
+        <coordinates>x = 73.5324783962865 y = 144</coordinates>
+        <enginePower>319</enginePower>
+        <vehicleType>CAR</vehicleType>
+        <fuelType>GASOLINE</fuelType>
+    </vehicle>
+    <vehicle>
+        <id>2</id>
+        <name>zxdczf</name>
+        <coordinates>x = 30.467524759069953 y = 190</coordinates>
+        <enginePower>354</enginePower>
+        <vehicleType>CAR</vehicleType>
+        <fuelType>GASOLINE</fuelType>
+    </vehicle>
+    <vehicle>
+        <id>3</id>
+        <name>wtzcql</name>
+        <coordinates>x = 80.9540716992461 y = 38</coordinates>
+        <enginePower>59</enginePower>
+        <vehicleType>CAR</vehicleType>
+        <fuelType>GASOLINE</fuelType>
+    </vehicle>
+    <vehicle>
+        <id>4</id>
+        <name>ycnjkt</name>
+        <coordinates>x = 36.086657138584 y = 101</coordinates>
+        <enginePower>17</enginePower>
+        <vehicleType>CAR</vehicleType>
+        <fuelType>GASOLINE</fuelType>
+    </vehicle>
+    <vehicle>
+        <id>5</id>
+        <name>munnuk</name>
+        <coordinates>x = 99.86135274135923 y = 39</coordinates>
+        <enginePower>74</enginePower>
+        <vehicleType>CAR</vehicleType>
+        <fuelType>GASOLINE</fuelType>
+    </vehicle>
+</vehicles>

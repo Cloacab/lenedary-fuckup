@@ -1,0 +1,12 @@
+show
+info
+add
+NewName
+1
+1
+100
+GASOLINE
+CAR
+show
+save
+
